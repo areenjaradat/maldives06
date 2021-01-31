@@ -1,0 +1,51 @@
+
+h1{
+    color: hsla(120, 20%, 93%, 0.973);
+}
+
+header{
+    background-color: hsl(120, 3%, 27%);
+}
+
+
+div ul li{
+    color: hsla(120, 3%, 52%, 0.973);
+    margin:10px;
+    text-decoration:none;
+    display: inline;
+}
+
+nav{
+   
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: rgb(24, 23, 23);
+    border-radius: 25px;
+    max-width: 300px;
+}
+
+
+img{
+    width: 300px;
+   float:inline-start;
+   
+}
+p{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:hsla(120, 12%, 22%, 0.973)
+}
+
+footer p{
+    display: inline;
+    background-color: hsl(120, 3%, 27%);
+    margin: 0%;
+    font-style: italic;
+    color: hsla(120, 20%, 93%, 0.973);
+}
+footer p a{
+    
+    text-decoration: none;
+    color: hsla(120, 20%, 93%, 0.973);
+}
